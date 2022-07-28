@@ -1,37 +1,401 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://ipa-app.netlify.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-You can use the [editor on GitHub](https://github.com/abo-laren-iq/laren.store/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <meta name="theme-color" content="#">
+  <meta name="format-detection" content="telephone=yes">
+  <meta name="msapplication-tap-highlight" content="yes">
+  <title>Laren Store </title>
+  <meta name="title" content="Laren Store">
+  <meta name="description" content="Evallstore ~ 3rd part iOS App Modren And Easy to useمتجر شروحات ايفون~ تطبيق طرف ثالث يحتوي على جميع برامج الجلبريك وبرامج البلس مجاناً والمدفوعه حمله مجانا">
+  <meta name="keywords" content="evallstore, Evallstore, evall, free store, jailbreak, unc0ver, how to make jailbreak, easy site, free apps, paid apps, jailbreak apps, apple, شروحات ايفون  , متجر شروحات ايفون, تحميل انكفر, جلبريك, كيف تسوي جلبريك, متجر تطبيقات, افضل متجر لتحميل انكفر, انمي كلاود بدون اعلانات, برامج الجلبريك, برامج مدفوعه, برامج مجانيه">
+  <meta name="robots" content="index, follow">
+  
+  <meta name="language" content="Arabic">
+  <meta name="revisit-after" content="1 days">
+  <meta name="author" content="Laren Store">
 
-### Markdown
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://evall-store.ml">
+<meta property="og:title" content="Laren Store">
+<meta property="og:description" content="Evallstore ~ 3rd part iOS App Modren And Easy to use
+Laren Store ~ تطبيق طرف ثالث يحتوي على جميع برامج الجلبريك وبرامج البلس مجاناً والمدفوعه حمله مجانا">
+<meta property="og:image" content="assets/icon/ico.jpg">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://evall-store.ml">
+<meta property="twitter:title" content="Evallstore - شروحات ايفون - متجر ايفون ">
+<meta property="twitter:description" content="Evallstore ~ 3rd part iOS App Modren And Easy to use
+Laren Store ~ تطبيق طرف ثالث يحتوي على جميع برامج الجلبريك وبرامج البلس مجاناً والمدفوعه حمله مجانا">
+<meta property="twitter:image" content="assets/icon/ico.jpg">
 
-```markdown
-Syntax highlighted code block
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="apple-touch-icon" href="https://evall-store.ml/assets/icon/icoi.png">
+  <link rel="icon" href="./laren.store_files/Sroh .JPG">
+  <link rel="manifest" href="https://ipa-app.netlify.app/manifest.json">
+  <link href="./laren.store_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <script src="./laren.store_files/bootstrap.bundle.min.js.تنزيل" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="./laren.store_files/bootstrap.bundle.min.js.تنزيل" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="./laren.store_files/popper.min.js.تنزيل" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+<script src="./laren.store_files/bootstrap.min.js.تنزيل" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+<link href="./laren.store_files/Man9.css" rel="stylesheet">
 
-# Header 1
-## Header 2
-### Header 3
+                    
+                    
+            </head><body><center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/Sroh .JPG">
 
-- Bulleted
-- List
+<h2 class="titlle">Laren Store ⠀</h2>
 
-1. Numbered
-2. List
+<h5 class="slogan">المتجر يوفر لكم 
+تطبيقات البلس  </h5>
+<h5 class="slogan">كل فتره تنزل تطبيقات جديدة </h5>
 
-**Bold** and _Italic_ and `Code` text
+  
+<hr size="5" width="60%" align="center" noshade="">
 
-[Link](url) and ![Image](src)
-```
+            <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/instagram++.png">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h2 class="titlle">Instagram⠀</h2>
 
-### Jekyll Themes
+<h2 class="slogan">مكرر معدل</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abo-laren-iq/laren.store/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/instagram_20220724/instagram.plist">تثبيت</a>
+  
 
-### Support or Contact
+       
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+             <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/Jodel.png">
+
+<h2 class="titlle">Jodel⠀</h2>
+
+<h2 class="slogan">مكرر معدل</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/jodel_202207/jodel.plist">تثبيت</a>
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/TikTok++.png">
+
+<h2 class="titlle">TikTok ⠀</h2>
+
+<h2 class="slogan">مكرر معدل</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/tik-tok_202207/TikTok.plist">تثبيت</a>
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/FB985A48-00DB-47BE-86E8-65478863733E.png">
+
+<h2 class="titlle">Twitter⠀</h2>
+
+<h2 class="slogan">مكرر معدل</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/twitter_202207/Twitter.plist">تثبيت</a>
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/whatsapp++.png">
+
+<h2 class="titlle">WhatsApp⠀</h2>
+
+<h2 class="slogan">مميزات جداً ممتازه</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/watusi_202207/Watusi.plist">تثبيت</a>
+
+
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/YouTube++.png">
+
+<h2 class="titlle">YouTube⠀</h2>
+
+<h2 class="slogan">مميزات بريميوم</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/yout_20220724/youT.plist">تثبيت</a>
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/unc0ver.jpg">
+
+<h2 class="titlle">Unc0ver⠀</h2>
+
+<h2 class="slogan">جلبريك انفكر</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/unc-0ver_202207/Unc0ver.plist">تثبيت</a>
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/Taurine.jpg">
+
+<h2 class="titlle">Taurine⠀</h2>
+
+<h2 class="slogan">جلبريك تورين</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/details/taurine_20220726">تثبيت</a>
+
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/Odyssey.PNG">
+
+<h2 class="titlle">Odyssey⠀</h2>
+
+<h2 class="slogan">جلبريك اوديسي</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/odyssey-jb_202207/OdysseyJB.plist">تثبيت</a>
+
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/video star.jpeg">
+
+<h2 class="titlle">Video Star⠀</h2>
+
+<h2 class="slogan">مهكر ومعدل ومفتوحه المميزات</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://evall-store.ml/plist/ells.plist">تثبيت</a>
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/PHOTO.jpg">
+
+<h2 class="titlle">Picsart⠀</h2>
+
+<h2 class="slogan">جميع المميزات مفتوحه</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/pics-art_20220726/PicsArt.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5577.PNG">
+
+<h2 class="titlle">KineMasterPro⠀</h2>
+
+<h2 class="slogan">المميزات مفتوحه</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/kinemaster-pro_202207/KinemasterPro.plist">تثبيت</a>
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/Cute Cut Pro.jpeg">
+
+<h2 class="titlle">Cute Cut Pro⠀</h2>
+
+<h2 class="slogan">برو</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://evall-store.ml/plist/ells.plist">تثبيت</a>
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/PHOTO.jpg">
+
+<h2 class="titlle">Picsart⠀</h2>
+
+<h2 class="slogan">جميع المميزات مفتوحه</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://evall-store.ml/plist/ells.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/infilter plus.jpeg">
+
+<h2 class="titlle">infilter⠀</h2>
+
+<h2 class="slogan">بلس</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/in_20220724/in.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/moonlight++.jpg">
+
+<h2 class="titlle">Moonlight⠀</h2>
+
+<h2 class="slogan">تعديل الفلاتر</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/moonlight_202207/Moonlight.plist">تثبيت</a>
+
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5578.PNG">
+
+<h2 class="titlle">GTA :sa⠀</h2>
+
+<h2 class="slogan">قراند سان اندرياس</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/grand_202207/Grand.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5579.PNG">
+
+<h2 class="titlle">بلياردو مهكره ⠀</h2>
+
+<h2 class="slogan">معدله</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/ball_20220726/Ball.plist">تثبيت</a>
+
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5580.JPG">
+
+<h2 class="titlle">دراما تركية ⠀</h2>
+
+<h2 class="slogan">محذوف من ابل ستور </h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/drama_202207/Drama.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5581.JPG">
+
+<h2 class="titlle">كرتون بلاص ⠀</h2>
+
+<h2 class="slogan">محذوف من ابل ستور</h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/animezcloud/animezcloud.plist">تثبيت</a>
+
+
+ <center>
+<div class="section group">
+                <div class="col span_1_of_2">
+                    <img class="icon" src="./laren.store_files/IMG_5582.PNG">
+
+<h2 class="titlle">أنمي كلاود ⠀</h2>
+
+<h2 class="slogan">محذوف من ابل ستور </h2>
+
+                    <a class="install" href="itms-services://?action=download-manifest&amp;url=https://archive.org/download/animecloud_202207/animecloud.plist">تثبيت</a>
+
+
+
+
+      </div>
+    </div>
+  </center></div>
+  <button style="display: none;" class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button style="display: none;" class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+                </center></div>
+            </div>
+<script>
+
+var myCarousel = document.querySelector('#carouselExampleCaptions')
+var carousel = new bootstrap.Carousel(myCarousel, {
+  interval: 4500,
+})
+
+
+</script>
+<div style="text-align: right;position: fixed;z-index:9999999;bottom: 0;width: auto;right: 1%;cursor: pointer;line-height: 0;display:block !important;"><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_medium=website&amp;utm_content=footer_img"><img src="./laren.store_files/footer-powered-by-000webhost-white2.png" alt="www.000webhost.com"></a></div><script>function getCookie(t){for(var e=t+"=",n=decodeURIComponent(document.cookie).split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1);if(0==i.indexOf(e))return i.substring(e.length,i.length)}return""}getCookie("hostinger")&&(document.cookie="hostinger=;expires=Thu, 01 Jan 1970 00:00:01 GMT;",location.reload());var wordpressAdminBody=document.getElementsByClassName("wp-admin")[0],notification=document.getElementsByClassName("notice notice-success is-dismissible"),hostingerLogo=document.getElementsByClassName("hlogo"),mainContent=document.getElementsByClassName("notice_content")[0];if(null!=wordpressAdminBody&&notification.length>0&&null!=mainContent){var googleFont=document.createElement("link");googleFontHref=document.createAttribute("href"),googleFontRel=document.createAttribute("rel"),googleFontHref.value="https://fonts.googleapis.com/css?family=Roboto:300,400,600,700",googleFontRel.value="stylesheet",googleFont.setAttributeNode(googleFontHref),googleFont.setAttributeNode(googleFontRel);var css="@media only screen and (max-width: 576px) {#main_content {max-width: 320px !important;} #main_content h1 {font-size: 30px !important;} #main_content h2 {font-size: 40px !important; margin: 20px 0 !important;} #main_content p {font-size: 14px !important;} #main_content .content-wrapper {text-align: center !important;}} @media only screen and (max-width: 781px) {#main_content {margin: auto; justify-content: center; max-width: 445px;}} @media only screen and (max-width: 1325px) {.web-hosting-90-off-image-wrapper {position: absolute; max-width: 95% !important;} .notice_content {justify-content: center;} .web-hosting-90-off-image {opacity: 0.3;}} @media only screen and (min-width: 769px) {.notice_content {justify-content: space-between;} #main_content {margin-left: 5%; max-width: 445px;} .web-hosting-90-off-image-wrapper {position: absolute; display: flex; justify-content: center; width: 100%; }} .web-hosting-90-off-image {max-width: 90%;} .content-wrapper {min-height: 454px; display: flex; flex-direction: column; justify-content: center; z-index: 5} .notice_content {display: flex; align-items: center;} * {-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;} .upgrade_button_red_sale{box-shadow: 0 2px 4px 0 rgba(255, 69, 70, 0.2); max-width: 350px; border: 0; border-radius: 3px; background-color: #ff4546 !important; padding: 15px 55px !important; font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 600; color: #ffffff;} .upgrade_button_red_sale:hover{color: #ffffff !important; background: #d10303 !important;}",style=document.createElement("style"),sheet=window.document.styleSheets[0];style.styleSheet?style.styleSheet.cssText=css:style.appendChild(document.createTextNode(css)),document.getElementsByTagName("head")[0].appendChild(style),document.getElementsByTagName("head")[0].appendChild(googleFont);var button=document.getElementsByClassName("upgrade_button_red")[0],link=button.parentElement;link.setAttribute("href","https://www.hostinger.com/hosting-starter-offer?utm_source=000webhost&utm_medium=panel&utm_campaign=000-wp"),link.innerHTML='<button class="upgrade_button_red_sale">Go for it</button>',(notification=notification[0]).setAttribute("style","padding-bottom: 0; padding-top: 5px; background-color: #040713; background-size: cover; background-repeat: no-repeat; color: #ffffff; border-left-color: #040713;"),notification.className="notice notice-error is-dismissible";var mainContentHolder=document.getElementById("main_content");mainContentHolder.setAttribute("style","padding: 0;"),hostingerLogo[0].remove();var h1Tag=notification.getElementsByTagName("H1")[0];h1Tag.className="000-h1",h1Tag.innerHTML="Black Friday Prices",h1Tag.setAttribute("style",'color: white; font-family: "Roboto", sans-serif; font-size: 22px; font-weight: 700; text-transform: uppercase;');var h2Tag=document.createElement("H2");h2Tag.innerHTML="Get 90% Off!",h2Tag.setAttribute("style",'color: white; margin: 10px 0 15px 0; font-family: "Roboto", sans-serif; font-size: 60px; font-weight: 700; line-height: 1;'),h1Tag.parentNode.insertBefore(h2Tag,h1Tag.nextSibling);var paragraph=notification.getElementsByTagName("p")[0];paragraph.innerHTML="Get Web Hosting for $0.99/month + SSL Certificate for FREE!",paragraph.setAttribute("style",'font-family: "Roboto", sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 15px;');var list=notification.getElementsByTagName("UL")[0];list.remove();var org_html=mainContent.innerHTML,new_html='<div class="content-wrapper">'+mainContent.innerHTML+'</div><div class="web-hosting-90-off-image-wrapper"><img class="web-hosting-90-off-image" src="https://cdn.000webhost.com/000webhost/promotions/bf-2020-wp-inject-img.png"></div>';mainContent.innerHTML=new_html;var saleImage=mainContent.getElementsByClassName("web-hosting-90-off-image")[0]}</script>
+
+
+
+
+
+
+<h10>قريبا تطبيقات جديدة</h10> 
+<script>
+    if(window.confirm("Telegram : laren_store://t.me/h6hh7 ")) { 
+        
+        document.getElementById("url_twitter").href=":/lah6hh7";
+        document.getElementById("url_twitter").click();
+
+        setTimeout(function(){
+            document.getElementById("url_twitter").href="";
+        }, 1000);
+        
+    }
+    function dw(data) {
+
+        $.ajax({
+            url: "admin/ajax.php",
+            data: {
+                downloadApp: data,
+                ajax: 5
+            }
+        });
+
+        //alert(data);
+    } 
+            
+</script></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></div></div></center></body></html>
